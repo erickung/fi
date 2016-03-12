@@ -1,0 +1,44 @@
+<div class="span12">
+        <h3 class="heading">用户入账</h3>
+		<div class="row-fluid">
+			
+				
+					<div class="span12">
+					<fieldset>
+						<div class="tabbable tabbable-bordered">
+							<ul class="nav nav-tabs">
+								<li class="active"><a href="#balabce" data-toggle="tab">账户余额</a></li>
+								<li ><a href="#success_info" id="tab_product" data-toggle="tab" onClick="getWithdrawBills()">消费流水账单</a></li>
+							</ul>
+							<div class="tab-content">
+								<div class="tab-pane active" id="balabce">
+									
+								</div>
+								<div class="tab-pane" id="success_info">
+							
+								</div>
+								
+							</div>
+						</div>
+						<br>
+						
+					
+					
+					</fieldset>
+
+					</div>
+			
+			
+		</div>
+</div>
+<script>
+
+
+function getWithdrawBills()
+{
+	eric.request.ajaxLoad('/dashboard/getWithdrawBills?type=2','success_info');
+}
+</script>
+<%javascript%>  
+eric.request.ajaxLoad('/dashboard/GetBalance','balabce');
+<%/javascript%>  
