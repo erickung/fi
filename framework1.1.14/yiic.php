@@ -10,6 +10,9 @@
  * @copyright 2008-2013 Yii Software LLC
  * @license http://www.yiiframework.com/license/
  */
+if (!defined('DS')) define('DS', DIRECTORY_SEPARATOR);
+if (!defined('FRM_ROOT')) define('FRM_ROOT', dirname(__FILE__) . DS);
+define('FRM_COM', FRM_ROOT . 'component');
 
 // fix for fcgi
 defined('STDIN') or define('STDIN', fopen('php://stdin', 'r'));

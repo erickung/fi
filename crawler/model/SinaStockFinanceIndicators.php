@@ -1,10 +1,11 @@
 <?php
 class SinaStockFinanceIndicators extends SinaStockFinanceBase
 {
+	public $stock;
 	function saveData()
 	{
 		$data = $this->processData();
-		
+	
 		foreach ($data as $d)
 		{
 			$si_id = $d['id'];
@@ -12,11 +13,30 @@ class SinaStockFinanceIndicators extends SinaStockFinanceBase
 
 			foreach ($d as $k => $v)
 			{
+				$quarter = substr(str_replace('-', '', $k), 0, 6);
+				$criteria = new CDbCriteria();
+				$criteria->addCondition("si_id=$si_id");
+				$criteria->addCondition("quarter=$quarter");
+				$criteria->addCondition("code={$this->stock}");
+				$tmp = FinancialIndicatorsDataAR::model()->findAll($criteria);
+
+				if (!empty($tmp)) {
+					continue;
+				}
+				
 				$FinancialIndicatorsDataAR = new FinancialIndicatorsDataAR();
 				$FinancialIndicatorsDataAR->si_id = $si_id;
-				$FinancialIndicatorsDataAR->quarter = substr(str_replace('-', '', $k), 0, 6);
+				$FinancialIndicatorsDataAR->quarter = $quarter;
 				$FinancialIndicatorsDataAR->data = $v;
+				$FinancialIndicatorsDataAR->code = $this->stock;
+				$FinancialIndicatorsDataAR->year = substr($quarter, 0, 4);
 				if ($FinancialIndicatorsDataAR->data == '--') $FinancialIndicatorsDataAR->data = '';
+				if (empty($FinancialIndicatorsDataAR->data) || !$FinancialIndicatorsDataAR->data) {
+					continue;
+				}
+				//var_dump($FinancialIndicatorsDataAR);exit;
+				
+				
 				$FinancialIndicatorsDataAR->save();
 			}
 		}

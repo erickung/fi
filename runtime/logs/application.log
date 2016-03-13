@@ -1,0 +1,2336 @@
+2014/03/30 11:51:13 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\web\index.php (18)
+2014/03/30 11:51:13 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\web\index.php (18)
+2014/03/30 11:51:13 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\web\index.php (18)
+2014/03/30 11:51:13 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\web\index.php (18)
+2014/03/30 11:51:13 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\web\index.php (18)
+2014/03/30 11:51:13 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\web\index.php (18)
+2014/03/30 11:51:13 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\web\index.php (18)
+2014/03/30 11:51:13 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\web\index.php (18)
+2014/03/30 11:51:13 [trace] [system.CModule] Loading "errorHandler" application component
+2014/03/30 11:51:13 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+2014/03/30 11:56:05 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:05 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:05 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:05 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:18 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:22 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:11 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:11 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:11 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:11 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:11 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:11 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:11 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:23 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:23 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:23 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:23 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:23 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:23 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:23 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "errorHandler" application component
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "errorHandler" application component
+2014/03/30 11:58:38 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:41 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:51 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:51 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:51 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:51 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:51 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:51 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:51 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:58 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:58 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:58 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:58 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:58 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:58 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:58 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:58 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:47 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:47 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:47 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:47 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:47 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:47 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:47 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:06 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:49 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:49 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:49 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:49 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:49 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:49 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:49 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:50 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:50 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:50 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:50 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:05 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:28 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:28 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:28 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:28 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:28 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:28 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:29 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:29 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:29 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:29 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:29 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:29 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:29 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:29 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:29 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:31 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:38 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:56 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:56 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:56 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:56 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:56 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:56 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:56 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:57 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:57 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:57 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\root.php (35)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 13:05:59 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\crawler\init.php (6)
+in G:\wamp\www\caibao\crawler\run.php (2)
+2014/03/30 13:05:59 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (29)
+in G:\wamp\www\caibao\crawler\init.php (6)
+in G:\wamp\www\caibao\crawler\run.php (2)
+2014/03/30 13:05:59 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\crawler\run.php (99)
+2014/03/30 13:06:00 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\crawler\run.php (125)
+2014/03/30 13:06:00 [trace] [system.CModule] Loading "errorHandler" application component
+2014/03/30 23:26:51 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:51 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:51 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:51 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:51 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:51 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:51 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:51 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:51 [trace] [system.CModule] Loading "errorHandler" application component
+2014/03/30 23:26:51 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:55 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:58 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.base.CModule] Loading "gii" module
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.CModule] Loading "user" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.CModule] Loading "session" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.CModule] Loading "db" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.CModule] Loading "clientScript" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.CModule] Loading "widgetFactory" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.CModule] Loading "assetManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:13:48 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:13:48 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:13:48 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:13:48 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:13:48 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:13:48 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:13:48 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:13:48 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:13:49 [trace] [system.CModule] Loading "errorHandler" application component
+2014/04/01 21:13:49 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+2014/04/01 21:16:33 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:33 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:33 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:33 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:46 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:46 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:46 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:46 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:16:47 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:00 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:00 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:00 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:00 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:01 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:01 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:01 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:01 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:01 [trace] [system.CModule] Loading "log" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:01 [trace] [system.CModule] Loading "request" application component
+in G:\wamp\www\caibao\root.php (34)
+in G:\wamp\www\caibao\root.php (51)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:01 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/04/01 21:17:01 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2016/03/12 14:40:56 [trace] [system.CModule] Loading "log" application component
+in G:\wamp_2.4\www\caibao\root.php (34)
+in G:\wamp_2.4\www\caibao\root.php (51)
+in G:\wamp_2.4\www\caibao\web\index.php (17)
+2016/03/12 14:40:56 [trace] [system.CModule] Loading "request" application component
+in G:\wamp_2.4\www\caibao\root.php (34)
+in G:\wamp_2.4\www\caibao\root.php (51)
+in G:\wamp_2.4\www\caibao\web\index.php (17)
+2016/03/12 14:40:56 [trace] [system.CModule] Loading "urlManager" application component
+in G:\wamp_2.4\www\caibao\root.php (53)
+in G:\wamp_2.4\www\caibao\web\index.php (17)
+2016/03/12 14:40:56 [trace] [system.CModule] Loading "smarty" application component
+in G:\wamp_2.4\www\caibao\web\protected\components\BMSController.php (20)
+in G:\wamp_2.4\www\caibao\root.php (53)
+in G:\wamp_2.4\www\caibao\web\index.php (17)
+2016/03/12 22:53:51 [trace] [system.CModule] Loading "log" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 22:53:51 [trace] [system.CModule] Loading "request" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 22:53:52 [trace] [system.CModule] Loading "db" application component
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (31)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:53:52 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (21)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:53:52 [trace] [system.CModule] Loading "errorHandler" application component
+2016/03/12 22:57:57 [trace] [system.CModule] Loading "log" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 22:57:57 [trace] [system.CModule] Loading "request" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 22:57:58 [trace] [system.CModule] Loading "db" application component
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:57:58 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (23)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:57:58 [trace] [system.CModule] Loading "errorHandler" application component
+2016/03/12 22:58:08 [trace] [system.CModule] Loading "log" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 22:58:08 [trace] [system.CModule] Loading "request" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 22:58:09 [trace] [system.CModule] Loading "db" application component
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:58:10 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (23)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:58:10 [trace] [system.CModule] Loading "errorHandler" application component
+2016/03/12 22:59:20 [trace] [system.CModule] Loading "log" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 22:59:20 [trace] [system.CModule] Loading "request" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 22:59:21 [trace] [system.CModule] Loading "db" application component
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (40)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:21 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (17)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:59:21 [trace] [system.CModule] Loading "errorHandler" application component
+2016/03/12 22:59:54 [trace] [system.CModule] Loading "log" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 22:59:54 [trace] [system.CModule] Loading "request" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 22:59:55 [trace] [system.CModule] Loading "db" application component
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (41)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:55 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (17)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:59:55 [trace] [system.CModule] Loading "errorHandler" application component
+2016/03/12 23:00:14 [trace] [system.CModule] Loading "log" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 23:00:14 [trace] [system.CModule] Loading "request" application component
+in G:\wamp_2.4\www\fi\root.php (37)
+in G:\wamp_2.4\www\fi\crawler\init.php (5)
+in G:\wamp_2.4\www\fi\crawler\run.php (2)
+2016/03/12 23:00:15 [trace] [system.CModule] Loading "db" application component
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (42)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 23:00:15 [trace] [system.CModule] Loading "coreMessages" application component
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (17)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 23:00:15 [trace] [system.CModule] Loading "errorHandler" application component

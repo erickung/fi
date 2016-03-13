@@ -22,7 +22,7 @@ abstract class SinaStockFinanceBase
 		{
 			$children = $th->children();
 			$tbody = $children[1];
-		
+
 			$is_year = false;
 			$j = 0;
 			foreach ($tbody->children() as $i => $ch)
@@ -31,7 +31,7 @@ abstract class SinaStockFinanceBase
 				else $is_year = false;
 		
 				$tds = $ch->children();
-				if (count($tds) < 5) continue;
+				//if (count($tds) < 5) continue;
 				$t = array();
 		
 				foreach ($tds as $k => $td)
@@ -52,8 +52,13 @@ abstract class SinaStockFinanceBase
 						if ($k == 0)
 						{
 							preg_match("/<a\s+\S*\s*href=\'(\S+)\'\s*\S*\>(\S+)<\/a>/", $td->innerText(), $matches);
-							$more[$matches[2]] = $matches[1];
-							$t['head'] = $matches[2];					
+							if (isset($matches[1])) {
+								$more[$matches[2]] = $matches[1];
+							}
+							if (isset($matches[2])) {
+								$t['head'] = $matches[2];
+							}
+											
 						}
 						else
 							$t[$tmp[$k]] = $td->innerText();

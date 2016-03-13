@@ -1,13 +1,15 @@
 <?php
 
 /**
- * This is the model class for table "{{financial_indicators_data}}".
+ * This is the model class for table "caibao_financial_indicators_data".
  *
- * The followings are the available columns in table '{{financial_indicators_data}}':
+ * The followings are the available columns in table 'caibao_financial_indicators_data':
  * @property string $id
  * @property integer $quarter
  * @property string $si_id
  * @property string $data
+ * @property string $year
+ * @property string $code
  *
  * The followings are the available model relations:
  * @property FinancialIndicators $si
@@ -19,7 +21,7 @@ class FinancialIndicatorsData extends CActiveRecord
 	 */
 	public function tableName()
 	{
-		return '{{financial_indicators_data}}';
+		return 'caibao_financial_indicators_data';
 	}
 
 	/**
@@ -30,7 +32,6 @@ class FinancialIndicatorsData extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-				
 			'si' => array(self::BELONGS_TO, 'FinancialIndicators', 'si_id'),
 		);
 	}
@@ -45,6 +46,8 @@ class FinancialIndicatorsData extends CActiveRecord
 			'quarter' => 'Quarter',
 			'si_id' => 'Si',
 			'data' => 'Data',
+			'year' => 'Year',
+			'code' => 'Code',
 		);
 	}
 
@@ -70,6 +73,8 @@ class FinancialIndicatorsData extends CActiveRecord
 		$criteria->compare('quarter',$this->quarter);
 		$criteria->compare('si_id',$this->si_id,true);
 		$criteria->compare('data',$this->data,true);
+		$criteria->compare('year',$this->year,true);
+		$criteria->compare('code',$this->code,true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,

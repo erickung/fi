@@ -1,0 +1,5 @@
+2014/03/30 13:06:00 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`caibao`.`dic_statistics_data`, CONSTRAINT `dic_statistics_data_ibfk_1` FOREIGN KEY (`si_id`) REFERENCES `dic_statistics_indicators` (`si_id`)). The SQL statement executed was: INSERT INTO `dic_statistics_data` (`quarter`, `data`) VALUES (:yp0, :yp1).
+in G:\wamp\www\caibao\crawler\run.php (125)
+2016/03/12 22:53:52 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '201509-1' for key 'quarter'. The SQL statement executed was: INSERT INTO `caibao_financial_indicators_data` (`si_id`, `quarter`, `data`) VALUES (:yp0, :yp1, :yp2).
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (21)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)

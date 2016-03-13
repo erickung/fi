@@ -1,0 +1,867 @@
+2014/03/30 11:56:24 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:56:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:57:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:11 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:11 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:23 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:51 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:58:58 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 11:59:48 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:47 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:01:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:02:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:36 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:38 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:49 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:12:50 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:15:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:06 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:16:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:43 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:56 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:32:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:33:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:16 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 12:47:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (37)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 13:05:59 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\crawler\run.php (99)
+2014/03/30 13:05:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\crawler\run.php (99)
+2014/03/30 13:06:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\crawler\run.php (99)
+2014/03/30 13:06:00 [trace] [system.db.ar.CActiveRecord] StatisticsIndicators.findAll()
+in G:\wamp\www\caibao\crawler\run.php (100)
+2014/03/30 13:06:00 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `dic_statistics_indicators` `t`
+in G:\wamp\www\caibao\crawler\run.php (100)
+2014/03/30 13:06:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\crawler\run.php (121)
+2014/03/30 13:06:00 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\crawler\run.php (121)
+2014/03/30 13:06:00 [trace] [system.db.ar.CActiveRecord] StatisticsData.insert()
+in G:\wamp\www\caibao\crawler\run.php (125)
+2014/03/30 13:06:00 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `dic_statistics_data` (`quarter`, `data`) VALUES (:yp0, :yp1)
+in G:\wamp\www\caibao\crawler\run.php (125)
+2014/03/30 23:26:59 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:26:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `dic_statistics_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:13 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2014/03/30 23:29:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp\www\caibao\root.php (53)
+in G:\wamp\www\caibao\web\index.php (17)
+2016/03/12 22:53:52 [trace] [system.db.ar.CActiveRecord] FinancialIndicatorsAR.findAll()
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (31)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:53:52 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (31)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:53:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (31)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:53:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (31)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:53:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `caibao_financial_indicators` `t`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (31)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:53:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (15)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:53:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (15)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:53:52 [trace] [system.db.ar.CActiveRecord] FinancialIndicatorsDataAR.insert()
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (21)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:53:52 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `caibao_financial_indicators_data` (`si_id`, `quarter`, `data`) VALUES (:yp0, :yp1, :yp2)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (21)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:57:58 [trace] [system.db.ar.CActiveRecord] FinancialIndicatorsAR.findAll()
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:57:58 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:57:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:57:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:57:58 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `caibao_financial_indicators` `t`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:57:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (15)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:57:58 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (15)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:58:09 [trace] [system.db.ar.CActiveRecord] FinancialIndicatorsAR.findAll()
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:58:09 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:58:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:58:09 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:58:09 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `caibao_financial_indicators` `t`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (37)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:58:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators_data`
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (15)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:58:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators_data`
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (15)
+in G:\wamp_2.4\www\fi\crawler\run.php (13)
+2016/03/12 22:59:21 [trace] [system.db.ar.CActiveRecord] FinancialIndicatorsAR.findAll()
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (40)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:21 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (40)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (40)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (40)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `caibao_financial_indicators` `t`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (40)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:55 [trace] [system.db.ar.CActiveRecord] FinancialIndicatorsAR.findAll()
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (41)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:55 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (41)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (41)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (41)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 22:59:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `caibao_financial_indicators` `t`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (41)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 23:00:15 [trace] [system.db.ar.CActiveRecord] FinancialIndicatorsAR.findAll()
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (42)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 23:00:15 [trace] [system.db.CDbConnection] Opening DB connection
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (42)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 23:00:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (42)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 23:00:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `caibao_financial_indicators`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (42)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
+2016/03/12 23:00:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `caibao_financial_indicators` `t`
+in G:\wamp_2.4\www\fi\website\protected\ar\FinancialIndicatorsAR.php (6)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (42)
+in G:\wamp_2.4\www\fi\crawler\model\SinaStockFinanceIndicators.php (6)
